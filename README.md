@@ -1,7 +1,8 @@
 # pti-mobile-senac
 Aplicativo de Saúde em React Native
 
-Instalação
+Instalação:
+
 Clone este repositório para sua máquina local.
 Navegue até a pasta do projeto.
 Execute npm install ou yarn install para instalar as dependências.
